@@ -1,12 +1,12 @@
-import React from "react";
-import hero from "../../assets/hero.png";
+import React from 'react'
+import hero from '../../assets/hero.png'
 
 const HeroSection = () => {
   return (
     <div
       style={{
         backgroundImage: `url(${hero})`,
-        objectPosition: "cover",
+        objectPosition: 'cover',
       }}
       className="object-cover bg-cover bg-no-repeat h-[30vh] md:h-[30vh]"
     >
@@ -20,7 +20,7 @@ const HeroSection = () => {
         </button>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default HeroSection;
+export default HeroSection
