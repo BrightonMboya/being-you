@@ -44,7 +44,7 @@ const NavBar = () => {
             </Link>
           </li>
           <li className="mt-5">
-            <FaInstagram className="" />
+            <FaInstagram className="w-full" />
           </li>
           <li className="mt-5">
             <FaYoutube />

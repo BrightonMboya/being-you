@@ -15,7 +15,7 @@ const HeroSection = () => {
           Loving Self. Embracing life. Defining purpose
         </h3>
 
-        <button className="bg-[#C87073] text-white py-1.5 mt-4 px-2.5 rounded-sm font-normal text-base md:py-4  text-lg">
+        <button className="bg-[#C87073] text-white py-1.5 mt-4 px-2.5 rounded-sm font-normal text-base md:py-3 px-3 text-lg">
           Learn More
         </button>
       </div>

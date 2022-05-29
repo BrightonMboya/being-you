@@ -7,16 +7,18 @@ const About = () => {
       <div className="py-6 md:grid grid-cols-3 gap-3">
         <div className="mt-6">
           <h3 className="text-center font-semibold">About</h3>
-          <p className="text-center px-4 md:mt-3">
+          <p className="text-center px-4 md:mt-3 text-lg">
             "The Value of identity of course is that so often with it comes
             purpose.
           </p>
         </div>
-        <img src={about} alt="" className="mt-6 px-8" />
-        <p className="text-center px-3 text-sm mt-7 md:text-base">
+        <div>
+          <img src={about} alt="" className="mt-6 px-[10vh] h-60 md:px-5" />
+        </div>
+        <p className="text-center px-3 text-sm mt-7 md:text-base text-justify mr-4">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae vel sint commodi repudiand consequuntur voluptatum 
-            <br/>
+          mollitia, molestiae vel sint commodi repudiand consequuntur voluptatum
+          <br />
           blanditiis harum quisquam eius sed odit fugiat iusto fuga praesenti
           optio, eaque rerum! Provident similique accusanti nemo autem.
         </p>
