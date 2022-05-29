@@ -11,11 +11,11 @@ const HeroSection = () => {
       className="object-cover bg-cover bg-no-repeat h-[30vh] md:h-[30vh]"
     >
       <div className="flex flex-col items-center justify-center pt-[7vh]">
-        <h3 className="text-center text-lg text-white font-medium py-[3vh] md:text-4xl">
+        <h3 className="text-center text-xl text-white font-medium py-[3vh] md:text-4xl">
           Loving Self. Embracing life. Defining purpose
         </h3>
 
-        <button className="bg-[#C87073] text-white mb-5 px-5 py-1 text-sm md:py-4 px-7 text-lg">
+        <button className="bg-[#C87073] text-white py-1.5 mt-4 px-2.5 rounded-sm font-normal text-base md:py-4  text-lg">
           Learn More
         </button>
       </div>

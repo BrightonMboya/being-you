@@ -6,7 +6,7 @@ const About = () => {
     <div className="flex flex-col justify-center items-center bg-[#F6F6F6]">
       <div className="py-6 md:grid grid-cols-3 gap-3">
         <div className="mt-6">
-          <h3 className="text-center">About</h3>
+          <h3 className="text-center font-semibold">About</h3>
           <p className="text-center px-4 md:mt-3">
             "The Value of identity of course is that so often with it comes
             purpose.
